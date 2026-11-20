@@ -1,0 +1,9 @@
+/target/
+/tmp/
+/logs/
+/data/*.db-wal
+/data/*.db-shm
+/nbproject/private/
+*.log
+.idea/
+*.iml
